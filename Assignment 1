@@ -1,0 +1,64 @@
+Import turtle 
+
+Pen = turtle. Turtle()
+
+Paper = turtle. Screen() 
+
+ShapeNumber = int(Input("""What shape do you want 
+
+1. Triangle
+
+2.Square
+
+3.Rectangle""")) 
+
+If ShapeNumber == 1:
+
+Pen. Fd(50) 
+
+Pen. lt(60) 
+
+Pen. Fd(50) 
+
+Pen. lt(60
+
+Pen. Fd(50) 
+
+Pen. lt(60) 
+
+Elif ShapeNumber == 2:
+
+Pen. Fd(50) 
+
+Pen. lt(90) 
+
+Pen. Fd(50) 
+
+Pen. lt(90) 
+
+Pen. Fd(50) 
+
+Pen. lt(90) 
+
+Pen. Fd(50) 
+
+Else:
+
+Pen. Fd(100) 
+
+Pen. lt(90) 
+
+Pen. Fd(50) 
+
+Pen. lt(90) 
+
+Pen. Fd(100) 
+
+Pen. lt(90) 
+
+Pen. Fd(50) 
+
+   
+
+Paper. mainloop() 
+
